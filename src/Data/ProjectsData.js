@@ -26,6 +26,13 @@ const MY_PROJECTS=[
         sourceLink:'https://github.com/mobs/Movie-App',
         demoLink:'https://movie-aap.netlify.app/',
         techStack:'HTML || CSS || REACT JS || REDUX || OMDB API'
+    },
+    {
+        projectTitle:'Vidtube App',
+        description:'It is a youtube clone using youtube v3 rapid api with light and dark mode options. It consists of navbar, search feed, videos feed, channel videos feed and video playing page using Routes. It fetches video depending upon the search or the category chppsen by user. It has a login button which uses Google Login and displays user details when logged in.',
+        sourceLink:'https://github.com/mobs/vidtube-app',
+        demoLink:'https://vidtube-app.vercel.app/',
+        techStack:'HTML || REACT JS || MATERIAL UI || REDUX || ROUTES || YOUTUBE v3 RAPID API'
     }
 ];
 const ProjectsData={MY_PROJECTS};
